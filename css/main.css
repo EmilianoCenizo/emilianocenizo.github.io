@@ -265,7 +265,7 @@ html .section__content {
     font-weight: 300;
     font-size: 1rem;
     width: 100%;
-    max-width: 650px
+    max-width: 750px
 }
 
 .night .section__content {
@@ -847,17 +847,17 @@ html #top-button img {
     justify-content: space-between
 }
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:630px) {
     .skills .skillz {
         -ms-flex-wrap: wrap;
         flex-wrap: wrap
     }
 }
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:630px) {
     .skills .skillz__category {
         width: 47%;
-        margin-right: 15px;
+        margin-right: 5px;
         margin-bottom: 25px
     }
 }
