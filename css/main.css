@@ -847,17 +847,17 @@ html #top-button img {
     justify-content: space-between
 }
 
-@media screen and (max-width:630px) {
+@media screen and (max-width:680px) {
     .skills .skillz {
         -ms-flex-wrap: wrap;
         flex-wrap: wrap
     }
 }
 
-@media screen and (max-width:630px) {
+@media screen and (max-width:680px) {
     .skills .skillz__category {
         width: 47%;
-        margin-right: 5px;
+        margin-right: 15px;
         margin-bottom: 25px
     }
 }
