@@ -241,14 +241,18 @@ html .section__title {
 @media screen and (max-width:1024px) {
     body .section__title,
     html .section__title {
-        margin-right: 50px
+        margin-right: 50px;
+        font-size: 12px;
+        text-align: left;   
     }
 }
 
 @media screen and (max-width:850px) {
     body .section__title,
     html .section__title {
-        width: 150px
+        width: 150px;
+        font-size: 12px;
+        text-align: left;
     }
 }
 
@@ -256,7 +260,7 @@ html .section__title {
     body .section__title,
     html .section__title {
         text-align: left;
-        width: auto
+        width: auto;
     }
 }
 
@@ -860,6 +864,11 @@ html #top-button img {
         margin-right: 5px;
         margin-bottom: 25px
     }
+    .skillz__category__label {
+        text-transform: uppercase;
+        font-size: 12px;
+    }
+
 }
 
 .skills .skillz__category__label {
