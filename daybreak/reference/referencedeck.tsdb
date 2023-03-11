@@ -1,0 +1,19 @@
+# Save File
+cardsx=6
+cardsy=2
+card-width=791
+card-height=1362
+zoom=0.25
+background-color=-1
+0_0=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\ch-setup.jpg
+1_0=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\ch-steps.jpg
+2_0=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\eu-setup.jpg
+3_0=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\eu-steps.jpg
+4_0=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\mw-setup.jpg
+5_0=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\mw-steps.jpg
+0_1=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\solo-setup.jpg
+1_1=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\solo-steps.jpg
+2_1=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\us-setup.jpg
+3_1=C\:\\Users\\Emiliano\\Downloads\\playingcards\\daybreak\\reference\\us-steps.jpg
+4_1=null
+5_1=null
